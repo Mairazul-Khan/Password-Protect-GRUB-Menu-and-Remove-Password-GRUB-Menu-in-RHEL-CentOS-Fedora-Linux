@@ -1,6 +1,6 @@
 # Password Protect GRUB Menu and Remove GRUB Password in RHEL CentOS Fedora-Linux
 
-1: How we can set username and password on grub menu and How to we can remove username and password on grub menu /boot menu bootloader in RHELCentOSFedora-Linux ?
+1: How we can set username and password on grub menu and How to we can remove username and password on grub menu /boot menu bootloader in RHEL CentOS Fedora-Linux ?
 
  
 
