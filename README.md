@@ -102,4 +102,4 @@ The GRUB menu will no longer prompt for a password.
 ---
 
 ## 📂 Author
-- Created by**Mairazul Khan**
+- Created by **Mairazul Khan**
